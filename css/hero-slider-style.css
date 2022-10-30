@@ -670,12 +670,12 @@ Javascript disabled
 }
 
 .glcengl{
-  height: 220vh;
+  height: 200vh;
 }
 .glcen{
   text-align: center;
-margin: 0 12%;
-padding: 1vw 4vw;
+margin: 0 10%;
+padding: 1vw 3.5vw;
 background-color: rgba(255, 250, 250, 0.5);
 border-radius: 0 0 15% 15%;
 
